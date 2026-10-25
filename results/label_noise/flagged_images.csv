@@ -1,0 +1,9 @@
+,path,label,consensus_pred,p(given label),p(consensus),wrong in every model & seed,confident-learning flag,exact duplicate with different label
+392,Normal/452.jpg,Normal,Pseudopapilledema,0.017368419461750557,0.9567263438588097,True,True,True
+161,Normal/244.jpg,Normal,Pseudopapilledema,0.05263478490745738,0.8868190859045301,True,False,False
+160,Normal/243.jpg,Normal,Pseudopapilledema,0.06000585752051501,0.9191719094912211,True,True,False
+556,Normal/60.jpg,Normal,Pseudopapilledema,0.07521782975111689,0.8947427386329287,True,False,False
+1152,Pseudopapilledema/17.jpg,Pseudopapilledema,Papilledema,0.08386121920886494,0.8849798128718421,True,False,False
+1102,Pseudopapilledema/124.jpg,Pseudopapilledema,Papilledema,0.10443893119338013,0.8629029563495091,True,False,False
+1290,Pseudopapilledema/294.jpg,Pseudopapilledema,Normal,0.17431077981988588,0.780308845497313,True,False,False
+1129,Pseudopapilledema/149.jpg,Pseudopapilledema,Pseudopapilledema,0.9561794371831984,0.9561794371831984,False,False,True

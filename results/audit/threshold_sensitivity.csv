@@ -1,0 +1,10 @@
+criterion,pairs
+pHash ≤ 2,2
+pHash ≤ 4,12
+pHash ≤ 6,39
+pHash ≤ 8,126
+pHash ≤ 10,609
+cosine ≥ 0.99,1
+cosine ≥ 0.98,6
+cosine ≥ 0.97,31
+cosine ≥ 0.95,136

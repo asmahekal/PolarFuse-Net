@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use this code or the benchmark audit, please cite it as below."
+title: "PolarFuse-Net: Cartesian–polar dual-view network for papilledema vs. pseudopapilledema, with a leakage-audited benchmark (code)"
+type: software
+version: 1.0.0
+date-released: 2026-10-25
+license: MIT
+authors:
+  - family-names: Hekal
+    given-names: Asmaa
+    email: asmaahekal3@gmail.com
+    affiliation: "Faculty of Computers and Information Systems, Egyptian Chinese University (ECU), Cairo, Egypt"
+keywords:
+  - papilledema
+  - pseudopapilledema
+  - fundus photography
+  - deep learning
+  - polar transformation
+  - data leakage
+  - calibration
+  - external validation
+repository-code: "https://github.com/USERNAME/PolarFuse-Net"

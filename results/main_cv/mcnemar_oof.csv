@@ -1,0 +1,7 @@
+only proposed right,only baseline right,exact McNemar p,Baseline
+18,1,7.62939453125e-05,ResNet-50 [Ahn 2019; Al-Azzawi 2023]
+11,6,0.332305908203125,VGG19 [Ahn 2019]
+10,2,0.03857421875,Inception-V3 [Ahn 2019]
+19,5,0.006610751152038574,MobileNetV2 [Kokulu & Göker 2023]
+17,5,0.01690053939819336,EfficientNet-B2 [Anitha 2026]
+13,3,0.021270751953125,DenseNet121 (baseline)
