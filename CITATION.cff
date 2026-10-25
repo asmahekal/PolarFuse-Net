@@ -5,6 +5,8 @@ type: software
 version: 1.0.0
 date-released: 2026-10-25
 license: MIT
+doi: 10.5281/zenodo.23639838
+url: "https://doi.org/10.5281/zenodo.23639838"
 authors:
   - family-names: Hekal
     given-names: Asmaa
@@ -19,4 +21,4 @@ keywords:
   - data leakage
   - calibration
   - external validation
-repository-code: "https://github.com/USERNAME/PolarFuse-Net"
+repository-code: "https://github.com/asmahekal/PolarFuse-Net"

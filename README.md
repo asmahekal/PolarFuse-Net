@@ -2,7 +2,7 @@
 
 **A clinically motivated Cartesian–polar dual-view network for distinguishing papilledema from pseudopapilledema on fundus photographs, with a leakage-audited benchmark and external validation.**
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXXXX.svg)](https://doi.org/10.5281/zenodo.XXXXXXX)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23639838.svg)](https://doi.org/10.5281/zenodo.23639838)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
 Asmaa Hekal — Faculty of Computers and Information Systems, Egyptian Chinese University (ECU), Cairo, Egypt
@@ -99,8 +99,8 @@ If you use this code, the audit or the predictions, please cite:
   year      = {2026},
   version   = {1.0.0},
   publisher = {Zenodo},
-  doi       = {10.5281/zenodo.XXXXXXX},
-  url       = {https://doi.org/10.5281/zenodo.XXXXXXX}
+  doi       = {10.5281/zenodo.23639838},
+  url       = {https://doi.org/10.5281/zenodo.23639838}
 }
 ```
 
